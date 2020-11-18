@@ -1,0 +1,2 @@
+To make it work with AWS lambda, Magnum library can be used. It will create handler object. To make it work with 
+API gateway REST Api, configure resource as proxy resource. Afterwards all the methods can be handled through FastAPI
